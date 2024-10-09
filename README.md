@@ -1,7 +1,7 @@
 ### Olá eu sou Netto d'Avila 👍🏻
 Apaixonado pelo mundo da  Tecnologia e Design !!!
 <h2 dir="auto"></h2>
-### Tecnologia que estou estudando
+Tecnologia que estou estudando
 
 <div style="display: inline_block">
 <img align="middle" alt="Netto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
