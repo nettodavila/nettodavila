@@ -1,8 +1,6 @@
 ### Olá eu sou Netto d'Avila 👍🏻
 Apaixonado pelo mundo da  Tecnologia e Design !!!
-
 <h2 dir="auto"></h2>
-
 ### Tecnologia que estou estudando
 
 <div style="display: inline_block">
