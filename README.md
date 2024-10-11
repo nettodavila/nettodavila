@@ -13,7 +13,7 @@ Apaixonado pelo mundo da  Tecnologia e Design !!!
 <h2 dir="auto"></h2>
 </div>
 <br/>
-##
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nettodavila&show_icons=true&theme=tokyonight)
 
 [![facebook](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/netto-d-avila-undefined-830285299/)
