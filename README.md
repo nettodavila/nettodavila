@@ -10,7 +10,7 @@ Apaixonado pelo mundo da  Tecnologia e Design !!!
 <img align="middle" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
 <img align="middle" alt="Netto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
 <img align="middle" alt="Netto-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="max-width: 100%;">
-<img align="middle" alt="Netto-PHP" height="30" width="40" src="https:///cdn.jsdelivr.net/gh/devicons/lacons/react/react-original.svg" style="max-width: 100%;">
+<img align="middle" alt="Netto-PHP" height="30" width="40" src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="max-width: 100%;">
 <h2 dir="auto"></h2>
 </div>
 <br/>
@@ -27,6 +27,7 @@ Apaixonado pelo mundo da  Tecnologia e Design !!!
 
 
 
+           
 
 
 
