@@ -19,7 +19,7 @@ Apaixonado pelo mundo da  Tecnologia e Design !!!
 </div>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nettodavila&layout=compact)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nettodavila&show_icons=true&theme=tokyonight)
 
