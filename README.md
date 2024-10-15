@@ -5,6 +5,10 @@ Apaixonado pelo mundo da  Tecnologia e Design !!!
 
 ### Tecnologia que estou estudando
 
+
+
+
+
 <div style="display: inline_block">
 <img align="middle" alt="Netto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
 <img align="middle" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
@@ -14,6 +18,8 @@ Apaixonado pelo mundo da  Tecnologia e Design !!!
 <h2 dir="auto"></h2>
 </div>
 <br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nettodavila&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nettodavila&show_icons=true&theme=tokyonight)
 
